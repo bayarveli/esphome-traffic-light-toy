@@ -1,0 +1,8 @@
+# Ignore secrets file
+/secrets.yaml
+
+# Ignore ESPHome build files
+/.esphome/
+
+# Ignore archived files
+/archive/
